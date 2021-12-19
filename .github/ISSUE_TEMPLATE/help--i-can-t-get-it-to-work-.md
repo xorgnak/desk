@@ -1,9 +1,9 @@
 ---
 name: Help! i can't get it to work!
 about: help request
-title: ''
-labels: help
-assignees: ''
+title: "[HELP][FIRE]"
+labels: fire, help
+assignees: xorgnak
 
 ---
 

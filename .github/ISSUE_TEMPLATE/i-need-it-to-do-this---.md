@@ -1,9 +1,9 @@
 ---
 name: I need it to do this...
 about: Suggest an idea for this project
-title: ''
+title: "[FEATURE]"
 labels: enhancement
-assignees: ''
+assignees: xorgnak
 
 ---
 
